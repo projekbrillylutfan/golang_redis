@@ -1,1 +1,2 @@
-# golang_redis
+# golang_redis 
+# Alamat Test dulu nih
